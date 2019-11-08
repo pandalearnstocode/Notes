@@ -9,6 +9,9 @@
 ### Design:
 
 #### Validate:
+##### Data location:
+##### Data fields:
+##### Data v
 #### Parse:
 #### Impute:
 #### Transform:
@@ -16,22 +19,6 @@
 #### Compute:
 #### Restructure output:
 #### Response:
-
-##### Validate:
-
-##### Parse:
-
-##### Impute:
-
-##### Transform:
-
-##### Restructure input:
-
-##### Compute:
-
-##### Restructure output:
-
-##### Response:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTk2NzgzODYsNjk5NTE2Mzk4XX0=
+eyJoaXN0b3J5IjpbLTY3NjIwNDY3Myw2OTk1MTYzOThdfQ==
 -->
