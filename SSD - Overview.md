@@ -21,11 +21,15 @@
 ##### Impute numerical:
 ##### Impute categorical:
 #### Transform:
-##### Transform what is 
+##### Transformation possible in present data structure:
 #### Restructure input:
+##### Nest to flat
+##### Dataframe to array or vectors
 #### Compute:
+##### Raw computation by function
+#### Integration of 
 #### Restructure output:
 #### Response:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4NDc5MjcyMiw2OTk1MTYzOThdfQ==
+eyJoaXN0b3J5IjpbLTEwNjc5OTk2MzcsNjk5NTE2Mzk4XX0=
 -->
