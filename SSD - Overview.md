@@ -22,14 +22,19 @@
 ##### Impute categorical:
 #### Transform:
 ##### Transformation possible in present data structure:
+##### Sorting of data of data in
 #### Restructure input:
 ##### Nest to flat
 ##### Dataframe to array or vectors
+##### Flat to nd array or generalised data structure
 #### Compute:
 ##### Raw computation by function
-#### Integration of 
+##### Integration of function
+##### Documentation of function
+##### Unit test of functions
+##### Property based test of functions
 #### Restructure output:
 #### Response:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjc5OTk2MzcsNjk5NTE2Mzk4XX0=
+eyJoaXN0b3J5IjpbNzQ1NDY0MjE5LDY5OTUxNjM5OF19
 -->
