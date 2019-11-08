@@ -13,7 +13,21 @@ The task of the engine is to compute some things on the basis of this user choic
 
 ## What is REST?
 
+### REST frameworks in Python:
+
+#### Flask
+
+#### FastAPI
+
+### REST frameworks in R:
+
+#### Plumber:
+
 ## Why package or library?
+
+### How to build a library in Python?
+
+### How to build a package in R?
 
 ## How to design an Analytical Engine:
 
@@ -54,5 +68,6 @@ The task of the engine is to compute some things on the basis of this user choic
 #### Code coverage
 #### Load and preformance testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc1OTY2MzgzLDY5OTUxNjM5OF19
+eyJoaXN0b3J5IjpbMTU2NTMyODg4OCwzNzU5NjYzODMsNjk5NT
+E2Mzk4XX0=
 -->
