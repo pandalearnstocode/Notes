@@ -13,6 +13,8 @@ The task of the engine is to compute some things on the basis of this user choic
 
 ## What is REST?
 
+## Why package or library?
+
 ## How to design an Analytical Engine:
 
 ### Design:
@@ -52,5 +54,5 @@ The task of the engine is to compute some things on the basis of this user choic
 #### Code coverage
 #### Load and preformance testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTQyOTAyOCw2OTk1MTYzOThdfQ==
+eyJoaXN0b3J5IjpbMzc1OTY2MzgzLDY5OTUxNjM5OF19
 -->
