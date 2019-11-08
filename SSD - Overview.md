@@ -7,7 +7,9 @@ The key different between a product and a library is the product comes with many
 
 ## What is analytical engine:
 
-By the analytical engine word here I want to mean that the piece of code which takes input from the user be it in the form of a data file or in some other form. For example if we click some button from the UI of a product or we define a model type from IDE both of them are co
+By the analytical engine word here I want to mean that the piece of code which takes input from the user be it in the form of a data file or in some other form. For example if we click some button from the UI of a product or we define a model type from IDE both of them are considered to be a user input. The combination of data on which these operations are being performed and user choice (like choice of a model is linear) constitures the input parameters of a engine. 
+
+The task of the engine is to compute some things on the basis of this user choice and be consistent in its result in terms of statistical sig
 
 ## What is REST?
 
@@ -50,5 +52,5 @@ By the analytical engine word here I want to mean that the piece of code which t
 #### Code coverage
 #### Load and preformance testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MDIxNDEzNiw2OTk1MTYzOThdfQ==
+eyJoaXN0b3J5IjpbOTI1ODYwMzk4LDY5OTUxNjM5OF19
 -->
