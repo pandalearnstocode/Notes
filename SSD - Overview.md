@@ -2,8 +2,12 @@
 
 There is no need to explain the importance of an statistical software at the present. Be it a package/library in any language or be it product in a organization every thing falls under statistical product if the core of the product is driven by the statistical solution of the software. 
 
-The key different between a product and a library is the product comes with many other complex things like UI, Backend and DevOps, Database where as a package or a library is mostly in
+The key different between a product and a library is the product comes with many other complex things like UI, Backend and DevOps, Database where as a package or a library is mostly independet of these sort of things. Here I will try to explain the analytical engine side of things which mainly does the computation part of this problem which is somewhat similar for a product or a library. 
+
+
 ## What is analytical engine:
+
+Ana
 
 ## What is REST?
 
@@ -46,5 +50,5 @@ The key different between a product and a library is the product comes with many
 #### Code coverage
 #### Load and preformance testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MzU4NjIxMiw2OTk1MTYzOThdfQ==
+eyJoaXN0b3J5IjpbOTg5MTk1NTkwLDY5OTUxNjM5OF19
 -->
