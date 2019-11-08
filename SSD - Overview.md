@@ -17,6 +17,21 @@
 #### Restructure output:
 #### Response:
 
+##### Validate:
+
+##### Parse:
+
+##### Impute:
+
+##### Transform:
+
+##### Restructure input:
+
+##### Compute:
+
+##### Restructure output:
+
+##### Response:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwMTA5NjM2NCw2OTk1MTYzOThdfQ==
+eyJoaXN0b3J5IjpbLTExNTk2NzgzODYsNjk5NTE2Mzk4XX0=
 -->
