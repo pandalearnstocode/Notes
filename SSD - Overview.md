@@ -9,7 +9,7 @@ The key different between a product and a library is the product comes with many
 
 By the analytical engine word here I want to mean that the piece of code which takes input from the user be it in the form of a data file or in some other form. For example if we click some button from the UI of a product or we define a model type from IDE both of them are considered to be a user input. The combination of data on which these operations are being performed and user choice (like choice of a model is linear) constitures the input parameters of a engine. 
 
-The task of the engine is to compute some things on the basis of this user choice and be consistent in its result in terms of statistical relevance when these input changes. Here we make an assumption that there will be a structure to the input which goes into the engine. We may or may not know then exact format or schema of the input but we need to make the engine as accomo
+The task of the engine is to compute some things on the basis of this user choice and be consistent in its result in terms of statistical relevance when these input changes. Here we make an assumption that there will be a structure to the input which goes into the engine. We may or may not know then exact format or schema of the input but we need to make the engine as accomodative as it can be where we do not know what the data structure is and we need to be strict where the data structure is known already. This mixture of both 
 
 ## What is REST?
 
@@ -52,5 +52,5 @@ The task of the engine is to compute some things on the basis of this user choic
 #### Code coverage
 #### Load and preformance testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODMzMDAxNSw2OTk1MTYzOThdfQ==
+eyJoaXN0b3J5IjpbLTc4NDkwNjY4Miw2OTk1MTYzOThdfQ==
 -->
