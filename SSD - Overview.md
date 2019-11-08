@@ -1,5 +1,6 @@
 # Statistical Software Development:
 
+There is no need to explain the importance of an statistical software at the present. Be it a package/library in any language or be it product in a organizat
 ## What is analytical engine:
 
 ## What is REST?
@@ -43,5 +44,5 @@
 #### Code coverage
 #### Load and preformance testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODA1NDkwMzcsNjk5NTE2Mzk4XX0=
+eyJoaXN0b3J5IjpbMTU2NjYwMDA2MSw2OTk1MTYzOThdfQ==
 -->
