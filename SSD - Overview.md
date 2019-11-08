@@ -7,7 +7,7 @@ The key different between a product and a library is the product comes with many
 
 ## What is analytical engine:
 
-Ana
+By the analytical engine word here I want to mean that the piece of code which takes input from the user be it in the form of a data file or in some other form. For example if we click some button from the UI of a product or we define a model type from IDE both of them are co
 
 ## What is REST?
 
@@ -50,5 +50,5 @@ Ana
 #### Code coverage
 #### Load and preformance testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg5MTk1NTkwLDY5OTUxNjM5OF19
+eyJoaXN0b3J5IjpbMTI2MDIxNDEzNiw2OTk1MTYzOThdfQ==
 -->
