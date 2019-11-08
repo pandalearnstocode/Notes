@@ -11,14 +11,21 @@
 #### Validate:
 ##### Data location:
 ##### Data fields:
-##### Data v
+##### Data values:
+* Categorical
+* Numerical
 #### Parse:
+##### Apply schema:
+##### After schema:
 #### Impute:
+##### Impute numerical:
+##### Impute categorical:
 #### Transform:
+##### Transform what is 
 #### Restructure input:
 #### Compute:
 #### Restructure output:
 #### Response:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjIwNDY3Myw2OTk1MTYzOThdfQ==
+eyJoaXN0b3J5IjpbLTM4NDc5MjcyMiw2OTk1MTYzOThdfQ==
 -->
