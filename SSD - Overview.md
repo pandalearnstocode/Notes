@@ -11,7 +11,12 @@
 #### Validate:
 #### Parse:
 #### Impute:
-#### Trans
+#### Transform:
+#### Restructure input:
+#### Compute:
+#### Restructure output:
+#### Response:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Nzg0MjgxNzcsNjk5NTE2Mzk4XX0=
+eyJoaXN0b3J5IjpbLTkwMTA5NjM2NCw2OTk1MTYzOThdfQ==
 -->
