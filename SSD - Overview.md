@@ -1,6 +1,8 @@
 # Statistical Software Development:
 
-There is no need to explain the importance of an statistical software at the present. Be it a package/library in any language or be it product in a organizat
+There is no need to explain the importance of an statistical software at the present. Be it a package/library in any language or be it product in a organization every thing falls under statistical product if the core of the product is driven by the statistical solution of the software. 
+
+The key different between a product and a library is the product comes with many other complex things like UI, Backend and DevOps, Database where as a package or a library is mostly in
 ## What is analytical engine:
 
 ## What is REST?
@@ -44,5 +46,5 @@ There is no need to explain the importance of an statistical software at the pre
 #### Code coverage
 #### Load and preformance testing
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjYwMDA2MSw2OTk1MTYzOThdfQ==
+eyJoaXN0b3J5IjpbMTU0MzU4NjIxMiw2OTk1MTYzOThdfQ==
 -->
