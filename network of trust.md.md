@@ -1,7 +1,6 @@
+# Network of trust
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+I recently saw a talk presented by Linus orvalds
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxNDIyNDk3MDgsNzMwOTk4MTE2XX0=
 -->
