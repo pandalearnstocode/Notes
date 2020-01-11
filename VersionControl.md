@@ -10,6 +10,8 @@ The people from computer science domain face this issue quite more often that as
 ### Better solution
 ### Required things
 ### Basic Idea
+* Centralized Source Control
+* Distributed Source Control
 ### Installing git
 ### Basic commands
 ### Better integration
@@ -24,5 +26,5 @@ The people from computer science domain face this issue quite more often that as
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MDg3MTc1OV19
+eyJoaXN0b3J5IjpbNzUwMzUzNjU1LDE1OTA4NzE3NTldfQ==
 -->
