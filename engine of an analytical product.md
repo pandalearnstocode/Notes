@@ -1,4 +1,6 @@
-# A mental mode
+# A mental model for buliding engine of an analytical product
+
+Curretly, I am working for The Nielsen Company in Product Development team. As a part of this role in past thr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5NTM3MTIxMCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjAwNjcyODgyOSwtMjA4ODc0NjYxMl19
 -->
