@@ -91,11 +91,9 @@ After the production code passes the code quality it is important to warp them a
 
 ### Serving result as a REST API
 
-* flaskrestplus
-* FastAPI
-* plumber
-* API documentation using Swagger UI
-* Response and request model and validation using Pydentic or JSONSchema
+* Microservices framework (flaskrestplus, FastAPI, plumber)
+* API documentation (Swagger UI)
+* Response and request model and validation (Pydentic, JSONSchema)
 
 ### Containerise the service and host in registry
 * Docker
@@ -115,8 +113,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTk2NjM0MCwtODM4NjIxNjI3LDMyMj
-cwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2LDM4NzIxNTI1
-OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2MDQsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNjI4OTM4MDgsLTgzODYyMTYyNywzMjI3MD
+U5MDMsLTc0OTg4NjE2OCwtMTYzNTU4MTY3NiwzODcyMTUyNTks
+MTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMD
+g4NzQ2NjEyXX0=
 -->
