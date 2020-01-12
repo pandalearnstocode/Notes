@@ -31,10 +31,20 @@ The formulated math problem has to be converted into a code in this section. Thi
 ### Communicate inital set of result for the data
 
 After developing the static code take a dump of the result. Present them a format which is acceptable to all the stakeholder. If the result and methodology looks promising then proceed to the next step. Otherwise go back to formulation of analytical problem and IO schema stage and reiterate.
+* ios slide
+* pdf document
+* beamer slide
+* RISE slide
+* nteraf
 
 ### Interactive proof of concept app
 
 Convert this static code to a proof of concept app which changing input is possible. By changing the input one will be able to check the algorithm with multiple data source and input. The UI needs not to be fancy in this app but it should be functional and should capture all the required input and produce the output.
+
+* shiny
+* ipython widget
+* voila
+* panel
 
 ### UAT of proof of concept app
 
@@ -75,6 +85,8 @@ Standard testing will not always very useful for data science projects but it is
 
 ### Building a package or library
 
+After the production code passes the code quality it is important to warp them as a 
+
 ### Serving result as a REST API
 
 ### Containerise the service and host in registry
@@ -91,7 +103,7 @@ Standard testing will not always very useful for data science projects but it is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MzU1ODE2NzYsMzg3MjE1MjU5LDE3Nj
-k1MzI4NTQsMTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbNDc4MTAwNzI3LC0xNjM1NTgxNjc2LDM4Nz
+IxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2
+MDQsLTIwODg3NDY2MTJdfQ==
 -->
