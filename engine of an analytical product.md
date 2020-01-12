@@ -14,10 +14,14 @@ A business problem is a series of statement which has to be converted into an an
 ### Analytical problem statement and input, output schema
 
 From high level view this does not look like an analytical problem. But lets take a leap of faith and consider that it can be boiled down to an LPP problem. Now, converting this series of statements to a minimization problem for given bound constraint and equality constraint is the first thing which has to be done. After formulating the problem, one has to finialise that which informations are required to solve the analytical problem and which information has to be shown back to the user. After making a list of input and output, a JSON schema has to be desinged. This is important to capture all the requirment at this point because this JSON schema is the contract between the backend and engine of the application. Also, there are some of the things must be taken into consideration when designing the schema:
-* D
+* Data should not be repetative.
+* Minimal sufficicient data should be sent in a network call.
+* Datatype of keys must be fixed.
+* Set of validation rules must be derived which will be later converted to validation.
+There are some other points but they can be ignore and touched upon wh
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA1MDY0MTIyLC0yMDkxMDkwNjA0LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTExMTUxODY2MjksLTIwOTEwOTA2MDQsLT
+IwODg3NDY2MTJdfQ==
 -->
