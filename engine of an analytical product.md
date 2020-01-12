@@ -36,9 +36,9 @@ Convert this static code to a proof of concept app which changing input is possi
 
 ### UAT of proof of concept app
 
-Share the interative application 
+Share the interative application with the concerned stakeholders, so that they can play with the application. If all the stakeholders feel that this algorithm solves the business problem in an efficient manner then proceed to the next step or depedening on the type of problem go back to any of the prev
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NzU1OTc0MCwxNzY5NTMyODU0LDEyMT
-UwMDcyMjksLTIwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNTM3NjM2OTM2LDE3Njk1MzI4NTQsMTIxNT
+AwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
 -->
