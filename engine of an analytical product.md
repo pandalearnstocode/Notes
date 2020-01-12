@@ -40,10 +40,8 @@ After developing the static code take a dump of the result. Present them a forma
 Convert this static code to a proof of concept app which changing input is possible. By changing the input one will be able to check the algorithm with multiple data source and input. The UI needs not to be fancy in this app but it should be functional and should capture all the required input and produce the output.
 
 *  R (shiny)
-* Python (jupyter + ipython widget
-* 
-* panel
-* papermill
+* Python (jupyter + ipython widget, voila, panel, Bokeh and others)
+* Basic testing in notebook using papermill
 
 ### UAT of proof of concept app
 
@@ -117,7 +115,7 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgyNzIwOTI1MSwtODM4NjIxNjI3LDMyMj
+eyJoaXN0b3J5IjpbMTk3MTk2NjM0MCwtODM4NjIxNjI3LDMyMj
 cwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2LDM4NzIxNTI1
 OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2MDQsLT
 IwODg3NDY2MTJdfQ==
