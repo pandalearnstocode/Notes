@@ -52,14 +52,19 @@ After finalizing the methodology, data, user input and required output the code 
 ### Testing
 
 Standard testing will not always very useful for data science projects but it is not possible to discard standard testing module as well. A combination of following testing can be very useful for data science projects,
-* Unit test
-* Property based testing
-* Testing with Simulated data
-* Design by contract
+* Unit test (pytest)
+* Property based testing (Hypothesis)
+* Testing with Simulated data (Faker)
+* Design by contract (c
 
 
 ### QA and QC
 
+* mypy
+* sphinx
+* flake8
+* pytest
+* pylint
 
 ### Building a package or library
 
@@ -79,7 +84,7 @@ Standard testing will not always very useful for data science projects but it is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MTg0NzczLDM4NzIxNTI1OSwxNzY5NT
-MyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2MDQsLTIwODg3NDY2
-MTJdfQ==
+eyJoaXN0b3J5IjpbMTUzNjA2NTU2NCwzODcyMTUyNTksMTc2OT
+UzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2
+NjEyXX0=
 -->
