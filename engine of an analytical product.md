@@ -43,9 +43,11 @@ Share the interative application with the concerned stakeholders, so that they c
 After finalizing the methodology, data, user input and required output the code has to be converted to a production quality code. The objective of this stage is to produce a code which is well documented, readable and well optimized. 
 * Use minimum and stable libraries
 * Document code with comment and docstring
-* 
+* There should a validation arugments in this section
 
 ### Testing
+
+Standard testing will not 
 
 ### QA and QC
 
@@ -67,7 +69,7 @@ After finalizing the methodology, data, user input and required output the code 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDY5ODYwODEsMzg3MjE1MjU5LDE3Nj
-k1MzI4NTQsMTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbMTYzMDIwNjg0NCwzODcyMTUyNTksMTc2OT
+UzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2
+NjEyXX0=
 -->
