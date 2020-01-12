@@ -26,7 +26,7 @@ There are some other points but they can be ignore and touched upon when we will
 
 ### Developing a static code
 
-The formulated math problem has to be converted into a code in this section. This code will take a input from an existing dataset and will product result. While developing this code one must remember that this code will be converted late to an interactive app. So, this is important to make all the inputs dynamic and perform things in a small functions. These function should do less thing but should do that in an robust manner. 
+The formulated math problem has to be converted into a code in this section. This code will take a input from an existing dataset and will produce result. While developing this code one must remember that this code will be converted late to an interactive app. So, this is important to make all the inputs dynamic and perform things in a small functions. These function should do less thing but should do that in an robust manner. 
 
 ### Communicate inital set of result for the data
 
@@ -37,7 +37,7 @@ After developing the static code take a dump of the result. Present them a forma
 
 ### Interactive proof of concept app
 
-Convert this static code to a proof of concept app which changing input is possible. By changing the input one will be able to check the algorithm with multiple data source and input. The UI needs not to be fancy in this app but it should be functional and should capture all the required input and produce the output.
+Convert this static code to a proof of concept app by introducing dynamic input. By changing the input one will be able to check the algorithm with multiple data source and input. The UI needs not to be fancy in this app but it should be functional and should capture all the required input and produce the output.
 
 *  R (shiny)
 * Python (jupyter + ipython widget, voila, panel, bokeh and others)
@@ -120,8 +120,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDQ0MzI3OCwtODM4NjIxNjI3LDMyMj
-cwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2LDM4NzIxNTI1
-OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2MDQsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMjM0OTczMjAsMTQwMDQ0MzI3OCwtOD
+M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
+Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
+IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
