@@ -18,10 +18,13 @@ From high level view this does not look like an analytical problem. But lets tak
 * Minimal sufficicient data should be sent in a network call.
 * Datatype of keys must be fixed.
 * Set of validation rules must be derived which will be later converted to validation.
-There are some other points but they can be ignore and touched upon wh
+There are some other points but they can be ignore and touched upon when we will revisit this topic.
+
+### Developing a static code
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUxODY2MjksLTIwOTEwOTA2MDQsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMj
+A4ODc0NjYxMl19
 -->
