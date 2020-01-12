@@ -32,7 +32,7 @@ The formulated math problem has to be converted into a code in this section. Thi
 
 After developing the static code take a dump of the result. Present them a format which is acceptable to all the stakeholder. If the result and methodology looks promising then proceed to the next step. Otherwise go back to formulation of analytical problem and IO schema stage and reiterate.
 * Presentation (ios slide, beamer slide, RISE slide, xaringan and others)
-* Technical document (pdf document)
+* Technical document (pdf document using markdown, pandoc and LaTeX)
 * Notebooks (nteract, Jupyter or Rmarkdown notebooks)
 
 ### Interactive proof of concept app
@@ -42,7 +42,7 @@ Convert this static code to a proof of concept app which changing input is possi
 *  R (shiny)
 * Python (jupyter + ipython widget, voila, panel, bokeh and others)
 * Interactive plotting (plotly, html widget)
-* Plotting (seaborn, pyviz, matplotlib,
+* Plotting (seaborn, pyviz, matplotlib, ggplot2)
 * Basic testing in notebook using papermill
 
 ### UAT of proof of concept app
@@ -58,6 +58,7 @@ After finalizing the methodology, data, user input and required output the code 
 * Error handelling (base python)
 * Structured logs (structured logs, coloredlogs, eliot tree, tidylog)
 * Reproducible eviourment (pip, conda)
+* Code profiling (cprofiler, lineprofiler, snakeviz, time magic, profileviz and others)
 
 ### Testing
 
@@ -114,8 +115,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMzY5OTI3MCwtODM4NjIxNjI3LDMyMj
-cwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2LDM4NzIxNTI1
-OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2MDQsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE2ODQ4NzQxMTEsLTgzODYyMTYyNywzMj
+I3MDU5MDMsLTc0OTg4NjE2OCwtMTYzNTU4MTY3NiwzODcyMTUy
+NTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC
+0yMDg4NzQ2NjEyXX0=
 -->
