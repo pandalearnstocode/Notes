@@ -48,6 +48,7 @@ Convert this static code to a proof of concept app by introducing dynamic input.
 * Python (jupyter + ipython widget, voila, panel, bokeh and others)
 * Interactive plotting (plotly, html widget)
 * Plotting (seaborn, pyviz, matplotlib, ggplot2)
+* Desktop application (Electron.js)
 * Basic testing in notebook using papermill
 
 ### UAT of proof of concept app
@@ -88,7 +89,7 @@ Standard testing will not always very useful for data science projects but it is
 
 ### QA and QC
 
-In order to make code base more readable this is important to maintain code quality in time. It helps in refacoring and maintaing the code. Speically in case of data science project various transformation, imputation, grouping and preprocessing is done. So, this is important to capture all the minute details as part of docstring, comment, logs and others. Also, in oder to match the same naming convension, reability index and st
+In order to make code base more readable this is important to maintain code quality in time. It helps in refacoring and maintaing the code. Speically in case of data science project various transformation, imputation, grouping and preprocessing is done. So, this is important to capture all the minute details as part of docstring, comment, logs and others. Also, in oder to match the same naming convension, reability index and styling this is import to make sure the following checks has been performed before the code is commited to the code base.
 
 * Static typing (mypy)
 * Doc string (sphinx)
@@ -141,8 +142,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTIwNzYsMTQwMDQ0MzI3OCwtODM4Nj
-IxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2
-LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOT
-EwOTA2MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTEzMTMxMDA3OTgsMTQwMDQ0MzI3OCwtOD
+M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
+Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
+IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
