@@ -17,7 +17,8 @@ From high level view this does not look like an analytical problem. But lets tak
 * Data should not be repetative.
 * Minimal sufficicient data should be sent in a network call.
 * Datatype of keys must be fixed.
-* Set of validation rules must be derived which will be later converted to validation.
+* Set of validation rules must be derived which will be later converted to validation.   
+
 There are some other points but they can be ignore and touched upon when we will revisit this topic.
 
 ### Developing a static code
@@ -25,6 +26,6 @@ There are some other points but they can be ignore and touched upon when we will
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE2NTQ4MzY0NzMsMTIxNTAwNzIyOSwtMj
+A5MTA5MDYwNCwtMjA4ODc0NjYxMl19
 -->
