@@ -44,9 +44,21 @@ Share the interative application with the concerned stakeholders, so that they c
 
 ### QA and QC
 
+### Building a package or library
+
+### Serving result as a REST API
+
+### Containerise the service and host in registry
+
+### Go live
+
+### Deployment in the development server
+
+### Deployment in the staging server
+
 ###
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjkzOTk2NTEsMTc2OTUzMjg1NCwxMj
-E1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTU0Mjk0NzYzMywxNzY5NTMyODU0LDEyMT
+UwMDcyMjksLTIwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
