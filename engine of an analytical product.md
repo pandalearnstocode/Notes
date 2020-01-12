@@ -58,7 +58,7 @@ After finalizing the methodology, data, user input and required output the code 
 * Error handelling (base python)
 * Structured logs (structured logs, coloredlogs, eliot tree, tidylog)
 * Reproducible eviourment (pip, conda)
-* Code profiling (cprofiler, lineprofiler, snakeviz, time magic, profileviz and others)
+* Code profiling (cprofiler, lineprofiler, snakeviz, jupyer time magic, profileviz and others)
 
 ### Testing
 
@@ -67,6 +67,7 @@ Standard testing will not always very useful for data science projects but it is
 * Property based testing (Hypothesis)
 * Testing with Simulated data (Faker)
 * Design by contract (contract)
+* Other libraries for Data Science (testthat etc)
 
 
 ### QA and QC
@@ -115,8 +116,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQ4NzQxMTEsLTgzODYyMTYyNywzMj
-I3MDU5MDMsLTc0OTg4NjE2OCwtMTYzNTU4MTY3NiwzODcyMTUy
-NTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTQ3NTkxNjA2NiwtODM4NjIxNjI3LDMyMj
+cwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2LDM4NzIxNTI1
+OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2MDQsLT
+IwODg3NDY2MTJdfQ==
 -->
