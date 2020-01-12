@@ -44,10 +44,11 @@ Share the interative application with the concerned stakeholders, so that they c
 
 After finalizing the methodology, data, user input and required output the code has to be converted to a production quality code. The objective of this stage is to produce a code which is well documented, readable and well optimized. 
 * Use minimum and stable libraries
-* Document code with comment and docstring
-* There should a validation arugments in this section
+* Document code with comment and docstring (sphix)
+* There should a validation arugments in this section (mypy)
 * Error handelling (base python)
-* Structured logs (structured logs, coloredlogs
+* Structured logs (structured logs, coloredlogs)
+* Reproducible eviourment (pip, conda)
 
 ### Testing
 
@@ -84,7 +85,7 @@ Standard testing will not always very useful for data science projects but it is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NTI2NDg5MiwzODcyMTUyNTksMTc2OT
-UzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTE3MjU2ODU3MjcsMzg3MjE1MjU5LDE3Nj
+k1MzI4NTQsMTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0
+NjYxMl19
 -->
