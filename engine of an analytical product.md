@@ -99,6 +99,8 @@ After the production code passes the code quality it is important to warp them a
 * flaskrestplus
 * FastAPI
 * plumber
+* API documentation using Swagger UI
+* Response and request model and validation using Pydentic or JSONSchema
 
 ### Containerise the service and host in registry
 * Docker
@@ -118,7 +120,8 @@ Deployment using CI/CD pipeline
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIyNzA1OTAzLC03NDk4ODYxNjgsLTE2Mz
-U1ODE2NzYsMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNTAwNzIy
-OSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTI4NTQ3MjQyNywzMjI3MDU5MDMsLTc0OT
+g4NjE2OCwtMTYzNTU4MTY3NiwzODcyMTUyNTksMTc2OTUzMjg1
+NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2NjEyXX
+0=
 -->
