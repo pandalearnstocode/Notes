@@ -59,7 +59,7 @@ After finalizing the methodology, data, user input and required output the code 
 * Document code with comment and docstring (sphix)
 * There should a validation arugments in this section (mypy)
 * Error handelling (base python)
-* Structured logs (structured logs, coloredlogs, eliot tree)
+* Structured logs (structured logs, coloredlogs, eliot tree, tidylog)
 * Reproducible eviourment (pip, conda)
 
 ### Testing
@@ -79,11 +79,13 @@ Standard testing will not always very useful for data science projects but it is
 * Linting (flake8)
 * Linting (pylint)
 * Linting (pyflakes)
+* Linting (Lintr)
 * PEP8 formatting (autopep8)
 * Maintainablity Index (Wily)
 * Maintainablity Index (Maccabe)
 * Code styling (pycodestyle)
 * Naming convension (pep8-naming)
+
 
 ### Building a package or library
 
@@ -116,7 +118,7 @@ Deployment using CI/CD pipeline
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0OTg4NjE2OCwtMTYzNTU4MTY3NiwzOD
-cyMTUyNTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkw
-NjA0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMzIyNzA1OTAzLC03NDk4ODYxNjgsLTE2Mz
+U1ODE2NzYsMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNTAwNzIy
+OSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
 -->
