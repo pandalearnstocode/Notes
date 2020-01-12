@@ -7,7 +7,10 @@ Curretly, I am working for The Nielsen Company in Product Development team. As a
 
 ![](https://pandalearnstocode.in/mental_model/a_mental_model_of_analytical_product_engine.png)
 
+### Buisness problem
+
+A business problem is a series of statement which has to be converted into an analytical solution at a later stage. For example, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwNDk0MjM4LC0yMDkxMDkwNjA0LC0yMD
-g4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTQzNTQzNzU1OCwtMjA5MTA5MDYwNCwtMj
+A4ODc0NjYxMl19
 -->
