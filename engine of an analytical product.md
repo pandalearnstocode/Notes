@@ -89,13 +89,24 @@ Standard testing will not always very useful for data science projects but it is
 
 After the production code passes the code quality it is important to warp them as a 
 
+* devtools
+* python package manager
+
 ### Serving result as a REST API
 
+* flaskrestplus
+* FastAPI
+* plumber
+
 ### Containerise the service and host in registry
+* Docker
+* Docker registry
 
 ### Go live
+Deployment using CI/CD pipeline
 
 ### Deployment in the development server
+
 
 ### Deployment in the staging server
 
@@ -105,7 +116,7 @@ After the production code passes the code quality it is important to warp them a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjYyMTkwNDUsLTE2MzU1ODE2NzYsMz
-g3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNTAwNzIyOSwtMjA5MTA5
-MDYwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTc0OTg4NjE2OCwtMTYzNTU4MTY3NiwzOD
+cyMTUyNTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkw
+NjA0LC0yMDg4NzQ2NjEyXX0=
 -->
