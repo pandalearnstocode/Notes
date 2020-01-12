@@ -130,14 +130,14 @@ Deployment using CI/CD pipeline
 ### Deployment in the staging server
 
 ### Measuring performance by load test
-
+#### Tools:
 * Locust
 * Postman
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTk1OTI0NDksMTQwMDQ0MzI3OCwtOD
-M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
-Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
-IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNzM0ODI5MTk0LDE0MDA0NDMyNzgsLTgzOD
+YyMTYyNywzMjI3MDU5MDMsLTc0OTg4NjE2OCwtMTYzNTU4MTY3
+NiwzODcyMTUyNTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMD
+kxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
 -->
