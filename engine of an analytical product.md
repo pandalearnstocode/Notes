@@ -56,9 +56,12 @@ Share the interative application with the concerned stakeholders, so that they c
 
 ### Deployment in the staging server
 
-###
+### Measuring performance by load test
+
+### Deployment in the production server
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0Mjk0NzYzMywxNzY5NTMyODU0LDEyMT
-UwMDcyMjksLTIwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNT
+AwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
 -->
