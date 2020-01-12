@@ -40,7 +40,10 @@ Share the interative application with the concerned stakeholders, so that they c
 
 ### Production code development
 
-After finalizing the methodology, data, user input and required output the code has to be converted to a production quality code. It is better if it is possible to make this code is
+After finalizing the methodology, data, user input and required output the code has to be converted to a production quality code. The objective of this stage is to produce a code which is well documented, readable and well optimized. 
+* Use minimum and stable libraries
+* Document code with comment and docstring
+* 
 
 ### Testing
 
@@ -64,7 +67,7 @@ After finalizing the methodology, data, user input and required output the code 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc0NDUxNDIxOSwzODcyMTUyNTksMTc2OT
-UzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbLTE4MDY5ODYwODEsMzg3MjE1MjU5LDE3Nj
+k1MzI4NTQsMTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0
+NjYxMl19
 -->
