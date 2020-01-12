@@ -96,7 +96,7 @@ In order to make code base more readable this is important to maintain code qual
 * Linting (flake8,pylint, pyflakes, Lintr)
 * Maintainablity Index (Wily, Maccabe)
 * Code styling (pycodestyle, autopep, pep8-naming)
-* * Code coverage
+* Code coverage
 * Comment highlighting
 
 
@@ -136,8 +136,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQxODcyNzUsMTQwMDQ0MzI3OCwtOD
-M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
-Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
-IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTc2MzY4NjMsMTQwMDQ0MzI3OCwtODM4Nj
+IxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2
+LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOT
+EwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
