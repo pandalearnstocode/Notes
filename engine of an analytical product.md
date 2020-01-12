@@ -65,6 +65,11 @@ Standard testing will not always very useful for data science projects but it is
 * Doc string (sphinx)
 * Linting (flake8)
 * Linting (pylint)
+* Linting (pyflakes)
+* PEP8 formatting (autopep8)
+* Maintainablity Index (Wily, Maccabe)
+* Code styling
+* Naming convension
 * 
 
 ### Building a package or library
@@ -85,7 +90,7 @@ Standard testing will not always very useful for data science projects but it is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MjU2ODU3MjcsMzg3MjE1MjU5LDE3Nj
-k1MzI4NTQsMTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0
-NjYxMl19
+eyJoaXN0b3J5IjpbLTMzNDM5MDAxNCwzODcyMTUyNTksMTc2OT
+UzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2
+NjEyXX0=
 -->
