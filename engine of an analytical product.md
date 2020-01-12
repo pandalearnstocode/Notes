@@ -92,19 +92,12 @@ Standard testing will not always very useful for data science projects but it is
 In order to make code base more readable this is important to maintain code quality in time. It helps in refacoring and maintaing the code. Speically in case of data science project various transformation, imputation, grouping and preprocessing is done. So, this is important to capture all the minute details as part of docstring, comment, logs and others. Also, in oder to match the same naming convension, reability index and styling this is import to make sure the following checks has been performed before the code is commited to the code base.
 
 * Static typing (mypy)
-* Doc string (sphinx, doc8, pydocst)
-* Doc string ()
-* Linting (flake8)
-* Linting (pylint)
-* Linting (pyflakes)
-* Linting (Lintr)
-* PEP8 formatting (autopep8)
-* Maintainablity Index (Wily)
-* Maintainablity Index (Maccabe)
-* Code styling (pycodestyle)
-* Naming convension (pep8-naming)
+* Doc string (sphinx, doc8, pydocstyle)
+* Linting (flake8,pylint, pyflakes, Lintr)
+* Maintainablity Index (Wily, Maccabe)
+* Code styling (pycodestyle, autopep, pep8-naming)
+* * Code coverage
 * Comment highlighting
-* Code coverage
 
 
 ### Building a package or library
@@ -143,7 +136,7 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU0MzMxNDgsMTQwMDQ0MzI3OCwtOD
+eyJoaXN0b3J5IjpbLTExNTQxODcyNzUsMTQwMDQ0MzI3OCwtOD
 M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
 Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
 IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
