@@ -73,7 +73,6 @@ Standard testing will not always very useful for data science projects but it is
 * Code styling (pycodestyle)
 * Naming convension (pep8-naming)
 
-
 ### Building a package or library
 
 ### Serving result as a REST API
@@ -92,7 +91,7 @@ Standard testing will not always very useful for data science projects but it is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjIyMjY2ODYsMzg3MjE1MjU5LDE3Nj
+eyJoaXN0b3J5IjpbLTE2MzU1ODE2NzYsMzg3MjE1MjU5LDE3Nj
 k1MzI4NTQsMTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0
 NjYxMl19
 -->
