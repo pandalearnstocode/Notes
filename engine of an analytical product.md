@@ -40,6 +40,8 @@ Share the interative application with the concerned stakeholders, so that they c
 
 ### Production code development
 
+After finalizing the methodology, data, user input and required output the code has to be converted to a production quality code. It is better if it is possible to make this code is
+
 ### Testing
 
 ### QA and QC
@@ -62,6 +64,7 @@ Share the interative application with the concerned stakeholders, so that they c
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNT
-AwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTc0NDUxNDIxOSwzODcyMTUyNTksMTc2OT
+UzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2
+NjEyXX0=
 -->
