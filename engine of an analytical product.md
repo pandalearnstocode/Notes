@@ -31,12 +31,13 @@ The formulated math problem has to be converted into a code in this section. Thi
 ### Communicate inital set of result for the data
 
 After developing the static code take a dump of the result. Present them a format which is acceptable to all the stakeholder. If the result and methodology looks promising then proceed to the next step. Otherwise go back to formulation of analytical problem and IO schema stage and reiterate.
-* ios slide
-* pdf document
-* beamer slide
-* RISE slide
+* Presentation (ios slide, beamer slide, RISE slide
+* Technical document (pdf document)
+* 
+* 
 * nteract notebook
 * Jupyter Notebooks
+* Rmarkdown Notebooks
 
 ### Interactive proof of concept app
 
@@ -120,8 +121,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODYyMTYyNywzMjI3MDU5MDMsLTc0OT
-g4NjE2OCwtMTYzNTU4MTY3NiwzODcyMTUyNTksMTc2OTUzMjg1
-NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbLTEyNTIxMjg5OTEsLTgzODYyMTYyNywzMj
+I3MDU5MDMsLTc0OTg4NjE2OCwtMTYzNTU4MTY3NiwzODcyMTUy
+NTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC
+0yMDg4NzQ2NjEyXX0=
 -->
