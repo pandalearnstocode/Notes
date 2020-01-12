@@ -28,9 +28,13 @@ The formulated math problem has to be converted into a code in this section. Thi
 
 ### Communicate inital set of result for the data
 
-After developing the static code take a dump of the result. Present them a format which is acceptable to all the stakeholder. If the result and methodology looks promising then proceed to the next step. Otherwisse 
+After developing the static code take a dump of the result. Present them a format which is acceptable to all the stakeholder. If the result and methodology looks promising then proceed to the next step. Otherwise go back to formulation of analytical problem and IO schema stage and reiterate.
+
+### Interactive proof of concept app
+
+Convert this proof of concept app
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTgxMzk0LDE3Njk1MzI4NTQsMTIxNTAwNz
-IyOSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTMwNjI3ODM4NywxNzY5NTMyODU0LDEyMT
+UwMDcyMjksLTIwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
