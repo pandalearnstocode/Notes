@@ -46,8 +46,8 @@ After finalizing the methodology, data, user input and required output the code 
 * Use minimum and stable libraries
 * Document code with comment and docstring
 * There should a validation arugments in this section
-* Error handelling
-* Structured logs
+* Error handelling (base python)
+* Structured logs (structured logs, coloredlogs
 
 ### Testing
 
@@ -55,16 +55,16 @@ Standard testing will not always very useful for data science projects but it is
 * Unit test (pytest)
 * Property based testing (Hypothesis)
 * Testing with Simulated data (Faker)
-* Design by contract (c
+* Design by contract (contract)
 
 
 ### QA and QC
 
-* mypy
-* sphinx
-* flake8
-* pytest
-* pylint
+* Static typing (mypy)
+* Doc string (sphinx)
+* Linting (flake8)
+* Linting (pylint)
+* 
 
 ### Building a package or library
 
@@ -84,7 +84,7 @@ Standard testing will not always very useful for data science projects but it is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjA2NTU2NCwzODcyMTUyNTksMTc2OT
+eyJoaXN0b3J5IjpbLTk4NTI2NDg5MiwzODcyMTUyNTksMTc2OT
 UzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2
 NjEyXX0=
 -->
