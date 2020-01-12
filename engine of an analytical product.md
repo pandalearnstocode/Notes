@@ -13,10 +13,10 @@ A business problem is a series of statement which has to be converted into an an
 
 ### Analytical problem statement and input, output schema
 
-From high level view this does not look like an analytical problem. But lets take a leap of faith and consider that it can be boiled down to an convex optimization problem. Lets say, $e(x)$
+From high level view this does not look like an analytical problem. But lets take a leap of faith and consider that it can be boiled down to an LPP problem. Now, converting this series of statements to a minimization problem for given bound constraint and equality constraint is the first thing which has to be 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Njk5MDkwMDEsLTIwOTEwOTA2MDQsLT
-IwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTExOTQ5MDQ3MywtMjA5MTA5MDYwNCwtMj
+A4ODc0NjYxMl19
 -->
