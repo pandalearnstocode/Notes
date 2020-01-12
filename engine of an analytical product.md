@@ -116,6 +116,9 @@ After the production code passes the code quality it is important to warp them a
 * Response and request model and validation (Pydentic, JSONSchema)
 
 ### Containerise the service and host in registry
+
+#### Tools:
+
 * Docker
 * Docker registry
 
@@ -133,8 +136,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDAzNDU3NCwxNDAwNDQzMjc4LC04Mz
-g2MjE2MjcsMzIyNzA1OTAzLC03NDk4ODYxNjgsLTE2MzU1ODE2
-NzYsMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNTAwNzIyOSwtMj
-A5MTA5MDYwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTE0NTk1OTI0NDksMTQwMDQ0MzI3OCwtOD
+M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
+Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
+IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
