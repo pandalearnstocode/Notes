@@ -18,7 +18,7 @@ From high level view this does not look like an analytical problem. But lets tak
 * Minimal sufficicient data should be sent in a network call.
 * Datatype of keys must be fixed.
 * Set of validation rules must be derived which will be later converted to validation. 
-* Request and response JSON schema has to be 100% specified in this 
+* Request and response JSON schema has to be 100% specified in this stage.
 
 There are some other points but they can be ignore and touched upon when we will revisit this topic.
 
@@ -27,6 +27,6 @@ There are some other points but they can be ignore and touched upon when we will
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzUwMDIwMTAsMTIxNTAwNzIyOSwtMj
-A5MTA5MDYwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMD
+kxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
 -->
