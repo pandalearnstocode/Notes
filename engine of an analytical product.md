@@ -68,7 +68,7 @@ After finalizing the methodology, data, user input and required output the code 
 * Structured logs (structured logs, coloredlogs, eliot tree, tidylog)
 * Reproducible eviourment (pip, conda)
 * Code profiling (cprofiler, lineprofiler, snakeviz, jupyer time magic, profileviz and others)
-* Exploration and implimentation of data schema (Pandas and pandas-profiling)
+* Exploration and implimentation of data schema (dplyr, tidyr, pandas and pandas-profiling)
 * Basic ETL (pandas, janitor)
 * Advanced computation (Numpy, Numba, Purrr, Tidyverse)
 * Scientific computing (Scipy, Scikit-learn, statmodels, stats, MASS, caret and many more)
@@ -136,8 +136,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzY4NjMsMTQwMDQ0MzI3OCwtODM4Nj
-IxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2
-LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOT
-EwOTA2MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTYwMzM5NzY3OCwxNzYzNjg2MywxNDAwND
+QzMjc4LC04Mzg2MjE2MjcsMzIyNzA1OTAzLC03NDk4ODYxNjgs
+LTE2MzU1ODE2NzYsMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNT
+AwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
 -->
