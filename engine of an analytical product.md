@@ -36,9 +36,17 @@ Convert this static code to a proof of concept app which changing input is possi
 
 ### UAT of proof of concept app
 
-Share the interative application with the concerned stakeholders, so that they can play with the application. If all the stakeholders feel that this algorithm solves the business problem in an efficient manner then proceed to the next step or depedening on the type of problem go back to any of the previous step. Suppose, if there is a concern related to the speed of the application go back to static code stage and make modification if possible. If there is some result inconsistency related issue then go back to the problem formulation stage and may be try out some other algorithm. This call is a 
+Share the interative application with the concerned stakeholders, so that they can play with the application. If all the stakeholders feel that this algorithm solves the business problem in an efficient manner then proceed to the next step or depedening on the type of problem go back to any of the previous step. Suppose, if there is a concern related to the speed of the application go back to static code stage and make modification if possible. If there is some result inconsistency related issue then go back to the problem formulation stage and may be try out some other algorithm. This call is a subjective call depedening upon the hurdle.
+
+### Production code development
+
+### Testing
+
+### QA and QC
+
+###
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjE0NDk0MTksMTc2OTUzMjg1NCwxMj
+eyJoaXN0b3J5IjpbLTE0MjkzOTk2NTEsMTc2OTUzMjg1NCwxMj
 E1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
 -->
