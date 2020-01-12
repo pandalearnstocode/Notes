@@ -24,9 +24,12 @@ There are some other points but they can be ignore and touched upon when we will
 
 ### Developing a static code
 
-The formulated math problem has to be converted into a code in this section. This code will take a input from an existing dataset and will product result. While developing this code one must remember that this code will be converted late to an interactive app. So, this is 
+The formulated math problem has to be converted into a code in this section. This code will take a input from an existing dataset and will product result. While developing this code one must remember that this code will be converted late to an interactive app. So, this is important to make all the inputs dynamic and perform things in a small functions. These function should do less thing but should do that in an robust manner. 
+
+### Communicate inital set of result for the data
+After 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDQzODE3MiwxNzY5NTMyODU0LDEyMT
-UwMDcyMjksLTIwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTIxMDM3MTI3OTcsMTc2OTUzMjg1NCwxMj
+E1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
 -->
