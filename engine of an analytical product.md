@@ -35,7 +35,8 @@ After developing the static code take a dump of the result. Present them a forma
 * pdf document
 * beamer slide
 * RISE slide
-* nteraf
+* nteract notebook
+* Jupyter Notebooks
 
 ### Interactive proof of concept app
 
@@ -45,6 +46,7 @@ Convert this static code to a proof of concept app which changing input is possi
 * ipython widget
 * voila
 * panel
+* papermill
 
 ### UAT of proof of concept app
 
@@ -57,7 +59,7 @@ After finalizing the methodology, data, user input and required output the code 
 * Document code with comment and docstring (sphix)
 * There should a validation arugments in this section (mypy)
 * Error handelling (base python)
-* Structured logs (structured logs, coloredlogs)
+* Structured logs (structured logs, coloredlogs, eliot tree)
 * Reproducible eviourment (pip, conda)
 
 ### Testing
@@ -103,7 +105,7 @@ After the production code passes the code quality it is important to warp them a
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc4MTAwNzI3LC0xNjM1NTgxNjc2LDM4Nz
-IxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2
-MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbLTE5NjYyMTkwNDUsLTE2MzU1ODE2NzYsMz
+g3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNTAwNzIyOSwtMjA5MTA5
+MDYwNCwtMjA4ODc0NjYxMl19
 -->
