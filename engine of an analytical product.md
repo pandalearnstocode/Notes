@@ -4,8 +4,10 @@ Curretly, I am working for The Nielsen Company in Product Development team. As a
 
 ## The end to end workflow
 
-!
+
+![](https://pandalearnstocode.in/mental_model/a_mental_model_of_analytical_product_engine.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTI2NzMsLTIwOTEwOTA2MDQsLTIwOD
-g3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbNzMwNDk0MjM4LC0yMDkxMDkwNjA0LC0yMD
+g4NzQ2NjEyXX0=
 -->
