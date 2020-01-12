@@ -88,6 +88,8 @@ Standard testing will not always very useful for data science projects but it is
 
 ### QA and QC
 
+In order to make code base more readable this is important to maintain code quality in time. It helps in refacoring and maintaing the code. Speically 
+
 * Static typing (mypy)
 * Doc string (sphinx)
 * Doc string (doc8)
@@ -100,6 +102,7 @@ Standard testing will not always very useful for data science projects but it is
 * Maintainablity Index (Maccabe)
 * Code styling (pycodestyle)
 * Naming convension (pep8-naming)
+* Comment highly
 
 
 ### Building a package or library
@@ -137,8 +140,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxMzA2OTU1OSwxNDAwNDQzMjc4LC04Mz
-g2MjE2MjcsMzIyNzA1OTAzLC03NDk4ODYxNjgsLTE2MzU1ODE2
-NzYsMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNTAwNzIyOSwtMj
-A5MTA5MDYwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbLTIwMzE4MjI2NzEsMTQwMDQ0MzI3OCwtOD
+M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
+Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
+IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
