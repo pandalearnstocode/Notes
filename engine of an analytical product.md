@@ -111,17 +111,17 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the development server
 
-
 ### Deployment in the staging server
 
 ### Measuring performance by load test
+
+* Locust
 
 ### Deployment in the production server
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NTQ3MjQyNywzMjI3MDU5MDMsLTc0OT
-g4NjE2OCwtMTYzNTU4MTY3NiwzODcyMTUyNTksMTc2OTUzMjg1
-NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2NjEyXX
-0=
+eyJoaXN0b3J5IjpbNzA4ODAyMzMsMzIyNzA1OTAzLC03NDk4OD
+YxNjgsLTE2MzU1ODE2NzYsMzg3MjE1MjU5LDE3Njk1MzI4NTQs
+MTIxNTAwNzIyOSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
 -->
