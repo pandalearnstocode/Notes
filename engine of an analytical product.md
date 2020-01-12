@@ -31,13 +31,18 @@ The formulated math problem has to be converted into a code in this section. Thi
 ### Communicate inital set of result for the data
 
 After developing the static code take a dump of the result. Present them a format which is acceptable to all the stakeholder. If the result and methodology looks promising then proceed to the next step. Otherwise go back to formulation of analytical problem and IO schema stage and reiterate.
+
+#### Tools:
+
 * Presentation (ios slide, beamer slide, RISE slide, xaringan and others)
 * Technical document (pdf document using markdown, pandoc and LaTeX)
 * Notebooks (nteract, Jupyter or Rmarkdown notebooks)
 
 ### Interactive proof of concept app
 
-Convert this static code to a proof of concept app by introducing dynamic input. By changing the input one will be able to check the algorithm with multiple data source and input. The UI needs not to be fancy in this app but it should be functional and should capture all the required input and produce the output.
+Convert this static code to a proof of concept app by introducing dynamic input. By changing the input one will be able to check the algorithm with multiple data source and user input. The UI should be minimal, functional and should capture all the required input and produce desired output.
+
+#### Tools:
 
 *  R (shiny)
 * Python (jupyter + ipython widget, voila, panel, bokeh and others)
@@ -120,8 +125,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjM0OTczMjAsMTQwMDQ0MzI3OCwtOD
-M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
-Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
-IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
+eyJoaXN0b3J5IjpbMTA0NjYzMDYxOCwxNDAwNDQzMjc4LC04Mz
+g2MjE2MjcsMzIyNzA1OTAzLC03NDk4ODYxNjgsLTE2MzU1ODE2
+NzYsMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNTAwNzIyOSwtMj
+A5MTA5MDYwNCwtMjA4ODc0NjYxMl19
 -->
