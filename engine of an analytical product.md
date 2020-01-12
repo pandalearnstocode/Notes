@@ -75,6 +75,9 @@ After finalizing the methodology, data, user input and required output the code 
 ### Testing
 
 Standard testing will not always very useful for data science projects but it is not possible to discard standard testing module as well. A combination of following testing can be very useful for data science projects,
+
+#### Tools:
+
 * Unit test (pytest)
 * Property based testing (Hypothesis)
 * Testing with Simulated data (Faker)
@@ -128,8 +131,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxMTU2MzU3LDE0MDA0NDMyNzgsLTgzOD
-YyMTYyNywzMjI3MDU5MDMsLTc0OTg4NjE2OCwtMTYzNTU4MTY3
-NiwzODcyMTUyNTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMD
-kxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTEzNzg3NDc2ODgsMTQwMDQ0MzI3OCwtOD
+M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
+Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
+IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
