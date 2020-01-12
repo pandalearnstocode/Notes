@@ -32,13 +32,13 @@ After developing the static code take a dump of the result. Present them a forma
 
 ### Interactive proof of concept app
 
-Convert this static code to a proof of concept app which changing input is possible. By changing the input one will be able to check the algorithm with multiple data source and input. 
+Convert this static code to a proof of concept app which changing input is possible. By changing the input one will be able to check the algorithm with multiple data source and input. The UI needs not to be fancy in this app but it should be functional and should capture all the required input and produce the output.
 
 ### UAT of proof of concept app
 
-
+Share the interative application 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTIyNzM4ODQsMTc2OTUzMjg1NCwxMj
-E1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbLTc0NzU1OTc0MCwxNzY5NTMyODU0LDEyMT
+UwMDcyMjksLTIwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
 -->
