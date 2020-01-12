@@ -27,9 +27,10 @@ There are some other points but they can be ignore and touched upon when we will
 The formulated math problem has to be converted into a code in this section. This code will take a input from an existing dataset and will product result. While developing this code one must remember that this code will be converted late to an interactive app. So, this is important to make all the inputs dynamic and perform things in a small functions. These function should do less thing but should do that in an robust manner. 
 
 ### Communicate inital set of result for the data
-After 
+
+After developing the static code take a dump of the result. Present them a format which is acceptable to all the stakeholder. If the result and methodology looks promising then proceed to the next step. Otherwisse 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDM3MTI3OTcsMTc2OTUzMjg1NCwxMj
-E1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbOTgxMzk0LDE3Njk1MzI4NTQsMTIxNTAwNz
+IyOSwtMjA5MTA5MDYwNCwtMjA4ODc0NjYxMl19
 -->
