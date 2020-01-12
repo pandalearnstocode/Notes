@@ -92,8 +92,8 @@ Standard testing will not always very useful for data science projects but it is
 In order to make code base more readable this is important to maintain code quality in time. It helps in refacoring and maintaing the code. Speically in case of data science project various transformation, imputation, grouping and preprocessing is done. So, this is important to capture all the minute details as part of docstring, comment, logs and others. Also, in oder to match the same naming convension, reability index and styling this is import to make sure the following checks has been performed before the code is commited to the code base.
 
 * Static typing (mypy)
-* Doc string (sphinx)
-* Doc string (doc8)
+* Doc string (sphinx, doc8, pydocst)
+* Doc string ()
 * Linting (flake8)
 * Linting (pylint)
 * Linting (pyflakes)
@@ -136,13 +136,14 @@ Deployment using CI/CD pipeline
 ### Deployment in the staging server
 
 ### Measuring performance by load test
+
 #### Tools:
 * Locust
 * Postman
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTMxMDA3OTgsMTQwMDQ0MzI3OCwtOD
+eyJoaXN0b3J5IjpbLTEwMjU0MzMxNDgsMTQwMDQ0MzI3OCwtOD
 M4NjIxNjI3LDMyMjcwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgx
 Njc2LDM4NzIxNTI1OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLT
 IwOTEwOTA2MDQsLTIwODg3NDY2MTJdfQ==
