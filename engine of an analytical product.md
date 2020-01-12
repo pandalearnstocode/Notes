@@ -46,14 +46,20 @@ After finalizing the methodology, data, user input and required output the code 
 * Use minimum and stable libraries
 * Document code with comment and docstring
 * There should a validation arugments in this section
-* 
+* Error handelling
+* Structured logs
 
 ### Testing
 
 Standard testing will not always very useful for data science projects but it is not possible to discard standard testing module as well. A combination of following testing can be very useful for data science projects,
+* Unit test
+* Property based testing
+* Testing with Simulated data
+* Design by contract
 
 
 ### QA and QC
+
 
 ### Building a package or library
 
@@ -73,7 +79,7 @@ Standard testing will not always very useful for data science projects but it is
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MjI4NDU5NCwzODcyMTUyNTksMTc2OT
-UzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC0yMDg4NzQ2
-NjEyXX0=
+eyJoaXN0b3J5IjpbNTQ4MTg0NzczLDM4NzIxNTI1OSwxNzY5NT
+MyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2MDQsLTIwODg3NDY2
+MTJdfQ==
 -->
