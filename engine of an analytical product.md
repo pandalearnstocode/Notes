@@ -9,8 +9,8 @@ Curretly, I am working for The Nielsen Company in Product Development team. As a
 
 ### Buisness problem
 
-A business problem is a series of statement which has to be converted into an analytical solution at a later stage. For example, 
+A business problem is a series of statement which has to be converted into an analytical solution at a later stage. For example, let say a consultant comes to you with a problem that he knows the
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNTQzNzU1OCwtMjA5MTA5MDYwNCwtMj
-A4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbMjM2NzE3MTAwLC0yMDkxMDkwNjA0LC0yMD
+g4NzQ2NjEyXX0=
 -->
