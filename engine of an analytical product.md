@@ -62,7 +62,7 @@ After finalizing the methodology, data, user input and required output the code 
 * Exploration and implimentation of data schema (Pandas and pandas-profiling)
 * Basic ETL (pandas , janitor)
 * Advanced computation (Numpy, Numba, Purrr, Tidyverse)
-* Scientific computing (Scipy, Scikit0
+* Scientific computing (Scipy, Scikit-learn, statmodels, stats, MASS, caret and many more)
 
 ### Testing
 
@@ -120,8 +120,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjEyNTYwMjUsLTgzODYyMTYyNywzMj
-I3MDU5MDMsLTc0OTg4NjE2OCwtMTYzNTU4MTY3NiwzODcyMTUy
-NTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMDkxMDkwNjA0LC
-0yMDg4NzQ2NjEyXX0=
+eyJoaXN0b3J5IjpbMTQwMDQ0MzI3OCwtODM4NjIxNjI3LDMyMj
+cwNTkwMywtNzQ5ODg2MTY4LC0xNjM1NTgxNjc2LDM4NzIxNTI1
+OSwxNzY5NTMyODU0LDEyMTUwMDcyMjksLTIwOTEwOTA2MDQsLT
+IwODg3NDY2MTJdfQ==
 -->
