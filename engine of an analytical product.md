@@ -57,6 +57,9 @@ Share the interative application with the concerned stakeholders, so that they c
 ### Production code development
 
 After finalizing the methodology, data, user input and required output the code has to be converted to a production quality code. The objective of this stage is to produce a code which is well documented, readable and well optimized. 
+
+#### Tools:
+
 * Use minimum and stable libraries
 * Document code with comment and docstring (sphix)
 * There should a validation arugments in this section (mypy)
@@ -125,8 +128,8 @@ Deployment using CI/CD pipeline
 
 ### Deployment in the production server
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0NjYzMDYxOCwxNDAwNDQzMjc4LC04Mz
-g2MjE2MjcsMzIyNzA1OTAzLC03NDk4ODYxNjgsLTE2MzU1ODE2
-NzYsMzg3MjE1MjU5LDE3Njk1MzI4NTQsMTIxNTAwNzIyOSwtMj
-A5MTA5MDYwNCwtMjA4ODc0NjYxMl19
+eyJoaXN0b3J5IjpbNjgxMTU2MzU3LDE0MDA0NDMyNzgsLTgzOD
+YyMTYyNywzMjI3MDU5MDMsLTc0OTg4NjE2OCwtMTYzNTU4MTY3
+NiwzODcyMTUyNTksMTc2OTUzMjg1NCwxMjE1MDA3MjI5LC0yMD
+kxMDkwNjA0LC0yMDg4NzQ2NjEyXX0=
 -->
