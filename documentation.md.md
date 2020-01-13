@@ -65,42 +65,22 @@ conda deactivate
 
 ## Python file
 
-  
 
 ```python
-
 def  addition(first_number: int, second_number: float) -> float:
-
 """This function will perform addition of two numbers.
-
-  
-
 Parameters
-
 ----------
-
 first_number : int
-
-the 1st arg has to be an int
-
+	the 1st arg has to be an int
 second_number : float
-
-the 2nd arg has to be an float
-
-  
-
+	the 2nd arg has to be an float
 Returns
-
 -------
-
 float
-
-the result of sum of an int and a float will be a float
-
+	the result of sum of an int and a float will be a float
 """
-
 result: float  = first_number + second_number
-
 return result
 
 ```
@@ -120,19 +100,10 @@ Go to setting and select default docstring generation style to be numpy. But it 
   
 
 ```shell
-
 # In development
-
 pdoc --html documentation
-
-  
-
 # In staging or production
-
 pdoc --html --config show_source_code=False documentation
-
-  
-
 ```
 
   
@@ -146,29 +117,19 @@ pdoc --html --config show_source_code=False documentation
   
 
 ```python
-
 from fastapi import FastAPI
-
 from starlette.staticfiles import StaticFiles
-
 app = FastAPI()
-
 app.mount("/documentation", StaticFiles(directory="documentation"))
-
 ```
 
   
 
 ### Start and access doc app server
 
-  
-
 ```shell
-
 cd html && uvicorn doc_app:app --reload
-
 open -a "Google Chrome" http://127.0.0.1:8000/documentation/index.html
-
 ```
 
   
@@ -178,9 +139,7 @@ open -a "Google Chrome" http://127.0.0.1:8000/documentation/index.html
   
 
 ```shell
-
 pip3 freeze > requirements.txt
-
 ```
 
   
@@ -190,11 +149,9 @@ pip3 freeze > requirements.txt
   
 
 ```shell
-
 conda deactivate
-
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDA4NTkyNjMsLTE0MTE0NDcxMzFdfQ
-==
+eyJoaXN0b3J5IjpbMTY5ODEzOTE5NSwtMTYwMDg1OTI2MywtMT
+QxMTQ0NzEzMV19
 -->
