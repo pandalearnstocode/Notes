@@ -5,32 +5,20 @@
 
 ## List of dependency
 
-  
-
 ```python
-
 aiofiles==0.4.0
-
 pdoc3==0.7.2
-
 fastapi==0.46.0
-
 ```
 
   
 
 ## Installing depedency
 
-  
-
 ```shell
-
 conda create --name documentation --file requirements.txt
-
 conda activate documentation
-
 conda deactivate
-
 ```
 
   
@@ -81,22 +69,14 @@ float
 """
 result: float  = first_number + second_number
 return result
-
-```
-
-  
+```  
 
 ## Install autodoc extension in VSC
 
-  
-
 Go to setting and select default docstring generation style to be numpy. But it is not exactly numpy. The thrid bracket has to be removed from the args and returns defintion like above and it will work as expected.
 
-  
 
 ## Generate documentation
-
-  
 
 ```shell
 # In development
@@ -105,15 +85,10 @@ pdoc --html documentation
 pdoc --html --config show_source_code=False documentation
 ```
 
-  
-
 ## Serve HTML site using fastapi
 
-  
 
 ### Content of doc_app.py
-
-  
 
 ```python
 from fastapi import FastAPI
@@ -131,26 +106,18 @@ cd html && uvicorn doc_app:app --reload
 open -a "Google Chrome" http://127.0.0.1:8000/documentation/index.html
 ```
 
-  
-
 ## Extract dependency
-
-  
 
 ```shell
 pip3 freeze > requirements.txt
 ```
 
-  
-
 ## Deactivate envs
-
-  
 
 ```shell
 conda deactivate
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzNDU3MDM3LC0xNjAwODU5MjYzLC0xND
-ExNDQ3MTMxXX0=
+eyJoaXN0b3J5IjpbLTkxMTI0Mjc5MywtMTYwMDg1OTI2MywtMT
+QxMTQ0NzEzMV19
 -->
