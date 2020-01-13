@@ -93,7 +93,11 @@ pip3 freeze > requirements.txt
 ```shell
 conda deactivate
 ```
+
+## Further steps
+
+Create a shell script which will be executated in the time of deployment or create a pre-commit hook which will create the documentation side ready before sending to git and when it will be deployed respective folder will be picked from the respective directory and displayed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNDc4NDQwODksNjUzNjM1NjUzLC0xNj
-AwODU5MjYzLC0xNDExNDQ3MTMxXX0=
+eyJoaXN0b3J5IjpbLTMzMzgzOTczMSwtMjA0Nzg0NDA4OSw2NT
+M2MzU2NTMsLTE2MDA4NTkyNjMsLTE0MTE0NDcxMzFdfQ==
 -->
