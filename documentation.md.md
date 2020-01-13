@@ -25,30 +25,7 @@ conda deactivate
 ## Project structure
 
   
-
-```shell
-.
-
-├── README.md
-
-├── documentation
-
-│ └── add_two_numbers.py
-
-├── html
-
-│ ├── doc_app.py
-
-│ └── documentation
-
-│ ├── add_two_numbers.html
-
-│ └── index.html
-
-└── requirements.txt
-```
-
-  
+![https://pandalearnstocode.in/slide/doc_dir_str.jpg](https://pandalearnstocode.in/slide/doc_dir_str.jpg)  
 
 ## Python file
 
@@ -117,6 +94,6 @@ pip3 freeze > requirements.txt
 conda deactivate
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUzNjM1NjUzLC0xNjAwODU5MjYzLC0xND
-ExNDQ3MTMxXX0=
+eyJoaXN0b3J5IjpbLTIwNDc4NDQwODksNjUzNjM1NjUzLC0xNj
+AwODU5MjYzLC0xNDExNDQ3MTMxXX0=
 -->
