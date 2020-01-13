@@ -40,25 +40,20 @@ conda deactivate
   
 
 ```shell
-
 .
-
 ├── README.md
-
 ├── documentation
-
-│ └── add_two_numbers.py
-
+	│ 
+	└── add_two_numbers.py
 ├── html
-
-│ ├── doc_app.py
-
-│ └── documentation
-
-│ ├── add_two_numbers.html
-
-│ └── index.html
-
+	│ 
+	├── doc_app.py
+	│
+	└── documentation
+		│ 
+		├── add_two_numbers.html
+		│ 
+		└── index.html
 └── requirements.txt
 
 ```
@@ -197,5 +192,6 @@ conda deactivate
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTE0NDcxMzFdfQ==
+eyJoaXN0b3J5IjpbLTIwNTk0MTIxNzEsLTE0MTE0NDcxMzFdfQ
+==
 -->
