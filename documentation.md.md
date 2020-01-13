@@ -1,7 +1,6 @@
 
 # Automated documentation using pdoc
 
-  
 
 ## List of dependency
 
@@ -118,6 +117,6 @@ pip3 freeze > requirements.txt
 conda deactivate
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxMTI0Mjc5MywtMTYwMDg1OTI2MywtMT
-QxMTQ0NzEzMV19
+eyJoaXN0b3J5IjpbNjUzNjM1NjUzLC0xNjAwODU5MjYzLC0xND
+ExNDQ3MTMxXX0=
 -->
