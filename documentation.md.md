@@ -1,8 +1,6 @@
 
 # Automated documentation using pdoc
 
-> Docuementation is like sex: when it is good, it is very, very good; and when it is bad, it is better than nothing.
-																							- Dicker B.
 
 ![https://pandalearnstocode.in/slide/pdoc_funny.jpg](https://pandalearnstocode.in/slide/pdoc_funny.jpg)
 
@@ -102,6 +100,6 @@ conda deactivate
 
 Create a shell script which will be executated in the time of deployment or create a pre-commit hook which will create the documentation side ready before sending to git and when it will be deployed respective folder will be picked from the respective directory and displayed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM0OTM1OSwtMjA0Nzg0NDA4OSw2NTM2Mz
-U2NTMsLTE2MDA4NTkyNjMsLTE0MTE0NDcxMzFdfQ==
+eyJoaXN0b3J5IjpbLTQzMDUyMzk5LC0yMDQ3ODQ0MDg5LDY1Mz
+YzNTY1MywtMTYwMDg1OTI2MywtMTQxMTQ0NzEzMV19
 -->
