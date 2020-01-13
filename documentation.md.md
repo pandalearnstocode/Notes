@@ -65,7 +65,6 @@ conda deactivate
 
 ## Python file
 
-
 ```python
 def  addition(first_number: int, second_number: float) -> float:
 """This function will perform addition of two numbers.
@@ -152,6 +151,6 @@ pip3 freeze > requirements.txt
 conda deactivate
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5ODEzOTE5NSwtMTYwMDg1OTI2MywtMT
-QxMTQ0NzEzMV19
+eyJoaXN0b3J5IjpbNDAzNDU3MDM3LC0xNjAwODU5MjYzLC0xND
+ExNDQ3MTMxXX0=
 -->
