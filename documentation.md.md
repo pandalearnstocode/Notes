@@ -1,6 +1,7 @@
 
 # Automated documentation using pdoc
 
+![https://pandalearnstocode.in/slide/pdoc_funny.jpg](https://pandalearnstocode.in/slide/pdoc_funny.jpg)
 
 ## List of dependency
 
@@ -98,6 +99,6 @@ conda deactivate
 
 Create a shell script which will be executated in the time of deployment or create a pre-commit hook which will create the documentation side ready before sending to git and when it will be deployed respective folder will be picked from the respective directory and displayed.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMzgzOTczMSwtMjA0Nzg0NDA4OSw2NT
-M2MzU2NTMsLTE2MDA4NTkyNjMsLTE0MTE0NDcxMzFdfQ==
+eyJoaXN0b3J5IjpbLTYwNTkzMjQ1LC0yMDQ3ODQ0MDg5LDY1Mz
+YzNTY1MywtMTYwMDg1OTI2MywtMTQxMTQ0NzEzMV19
 -->
